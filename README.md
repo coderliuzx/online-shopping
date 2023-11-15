@@ -1,24 +1,21 @@
-# app
+# 电商网站模仿
 
-## Project setup
+
+# 使用说明
+1. 把项目clone到本地
+2. 下载第三方库
+3. 运行项目
+   
+## 把项目clone到本地
 ```
-npm install
+  git clone https://github.com/coderliuzx/online-shopping.git
+```
+## 下载第三方库
+```
+  npm install
+```
+## 运行项目
+```
+  npm run serve
 ```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
